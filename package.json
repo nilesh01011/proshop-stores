@@ -1,7 +1,7 @@
 {
   "name": "proshop",
   "version": "1.0.0",
-  "description": "",
+  "description": "MERN shopping app",
   "main": "server.js",
   "type": "module",
   "scripts": {
